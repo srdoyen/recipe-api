@@ -1,3 +1,3 @@
 # recipe-api
 
-# recipe app api
+# recipe app
